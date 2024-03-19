@@ -30,7 +30,7 @@ KryptoJobs2Go is a cutting-edge platform designed to simplify the process of hir
 - Blockchain Security: The Ethereum blockchain network provides a secure and immutable ledger for recording transactions. By leveraging blockchain technology, KryptoJobs2Go ensures transparency and eliminates the risk of fraud or tampering.
 
 ### Overview of the KryptoJobs2Go Web App
-1. The homepage of our webapp shows a list of all the potential canidates you can choose from. 
+1. The homepage of our webapp shows a list of all the potential candidates you can choose from. 
 ![Home Page](/Images/webappsample.png)
 Each professional includes
 - Picture
